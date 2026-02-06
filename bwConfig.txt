@@ -1,3 +1,0 @@
-# Configuration file for Big Wig Electronics
-# Created By [Kgaogelo Lekhuleni] - [05 Frbruary 2026]
-timeout =45
